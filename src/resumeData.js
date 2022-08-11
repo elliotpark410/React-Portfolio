@@ -1,9 +1,9 @@
 let resumeData = {
-    "imagebaseurl":"https://elliotpark410.github.io/Professional-Portfolio-v3/",
     "name": "Elliot Park",
-    "role": "Frontend Developer",
+    // "role": "Frontend Developer",
     "linkedinId":"https://www.linkedin.com/in/elliot-park/",
-    "roleDescription": "I'm an aspiring web developer & programmer living in Bali, Indonesia. I like to learn about new technologies and build things for the web!",
+    "email": "elliotpark410@gmail.com",
+    "roleDescription": "I'm an aspiring Front-end Developer living in Bali, Indonesia. I like to learn about new technologies and build things for the web!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -19,18 +19,23 @@ let resumeData = {
           "name":"twitter",
           "url":"http://twitter.com/ElliotPark15",
           "className":"fa fa-twitter"
+        },
+        {
+          "name":"email",
+          "url":"mailto:elliotpark410@gmail.com",
+          "className":"fa fa-envelope"
         }
       ],
     "aboutme":"I am currently doing operational work for a crypto-finance company in Bali, Indonesia. I completed University of California, Berkeley's Full Stack Web Development bootcamp, and I use my spare time to sharpen my skills in front-end web development. I'm fairly new to cryptocurrrency and blockchains, but I'm completely fascinated by the technology and truly believe that it will revolutionize how we think of finance.",
     "address":"Bali, Indonesia",
-    "website":"https://github.com/elliotpark410/",
+    "website":"E: elliotpark410@gmail.com",
     "education":[
       {
         "UniversityName":"University of California, Santa Barbara",
         "specialization":"Philosophy",
         "MonthOfPassing":"Jun",
         "YearOfPassing":"2016",
-        "Achievements":"University of California, Berkeley Full Stack Web Development bootcamp"
+        "Achievements":"Additional Coursework: University of California, Berkeley Full Stack Web Development bootcamp"
       }
     ],
     "work":[
