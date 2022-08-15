@@ -796,12 +796,12 @@ call-to-action .button {
 #contact {
    background: #191919;
    padding-top: 96px;
-   padding-bottom: 102px;
+   padding-bottom: 10px;
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #525252; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -1010,4 +1010,18 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+
+.email {
+   margin: 18px 0 30px 0;
+   font-size: 150px;
+   padding: 10px;
+}
+
+.contact-text {
+   text-align: center;
+   float: center;
+   position: right;
+   width: 100%;
+}
 

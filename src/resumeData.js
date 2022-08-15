@@ -19,11 +19,6 @@ let resumeData = {
           "name":"twitter",
           "url":"http://twitter.com/ElliotPark15",
           "className":"fa fa-twitter"
-        },
-        {
-          "name":"email",
-          "url":"mailto:elliotpark410@gmail.com",
-          "className":"fa fa-envelope"
         }
       ],
     "aboutme":"I am currently doing operational work for a crypto-finance company in Bali, Indonesia. I completed University of California, Berkeley's Full Stack Web Development bootcamp, and I use my spare time to sharpen my skills in front-end web development. I'm fairly new to cryptocurrrency and blockchains, but I'm completely fascinated by the technology and truly believe that it will revolutionize how we think of finance.",
