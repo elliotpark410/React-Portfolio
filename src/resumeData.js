@@ -3,7 +3,7 @@ let resumeData = {
     // "role": "Frontend Developer",
     "linkedinId":"https://www.linkedin.com/in/elliot-park/",
     "email": "elliotpark410@gmail.com",
-    "roleDescription": "I'm an aspiring Front-end Developer living in Bali, Indonesia. I like to learn about new technologies and build things for the web!",
+    "roleDescription": "I'm an aspiring Front-end Developer living in Bali, Indonesia.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently doing operational work for a crypto-finance company in Bali, Indonesia. I completed University of California, Berkeley's Full Stack Web Development bootcamp, and I use my spare time to sharpen my skills in front-end web development. I'm fairly new to cryptocurrrency and blockchains, but I'm completely fascinated by the technology and truly believe that it will revolutionize how we think of finance.",
+    "aboutme":"My journey into coding began with University of California, Berkeley's Full Stack Web Development bootcamp. There were a lot of sleepless nights, but it was worth every second. After I deployed my first app, I was hooked and I knew this is what I want to do for the rest of my life. The bootcamp taught me how to problem solve, work with a team, and learn new things every day. I am currently doing operational work for a crypto-finance company in Bali. When I am not working I use my spare time to sharpen my skills in React and JavaScript. If I am not in front of my computer you can find me surfing at the beach or doing jiu jitsu on the mats. Thanks for checking out my portfolio, and feel free to reach out if you have any questions!",
     "address":"Bali, Indonesia",
     "website":"E: elliotpark410@gmail.com",
     "education":[
