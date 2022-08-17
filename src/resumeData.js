@@ -72,24 +72,32 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Code Quiz",
+        "description":"A simple code quiz that allows users to test their JavaScript knowledge.",
+        "imgurl":"images/portfolio/code-quiz.png",
+        "imgrepo": "https://github.com/elliotpark410/Code-Quiz",
+        "imglink": "https://elliotpark410.github.io/Code-Quiz/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Tech Blog",
+        "description":"A CMS-style blog site similar to Wordpress.",
+        "imgurl":"images/portfolio/tech-blog.png",
+        "imgrepo": "https://github.com/elliotpark410/Tech-Blog",
+        "imglink": "https://desolate-atoll-11549.herokuapp.com/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Team Profile Generator",
+        "description":"A command-line application that generates a team profile.",  
+        "imgurl":"images/portfolio/team-profile.png",
+        "imgrepo": "https://github.com/elliotpark410/Team-Profile-Generator",
+        "imglink": "https://elliotpark410.github.io/Team-Profile-Generator/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Text Editor",
+        "description":"A text editor app that runs in the browser and meets the Progressive Web App criteria.",
+        "imgurl":"images/portfolio/text-editor.png",
+        "imgrepo": "https://github.com/elliotpark410/Text-Editor",
+        "imglink": "https://pure-chamber-15361.herokuapp.com/"
       }
     ]
   }

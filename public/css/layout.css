@@ -442,6 +442,10 @@ ul#nav li.current a { color: #F06000; }
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+
+   border-style: solid;
+   border-color: black;
+   border-width: 1px; 
 }
 .portfolio-item .item-wrap a {
    display: block;
@@ -466,6 +470,8 @@ ul#nav li.current a { color: #F06000; }
 	transition: opacity 0.3s ease-in-out;
 
    background: url(../images/overlay-bg.png) repeat;
+
+
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
@@ -490,11 +496,15 @@ ul#nav li.current a { color: #F06000; }
    left: 50%;
    margin-left: -15px;
    margin-top: -15px;
+
+
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
 }
-.portfolio-item .portfolio-item-meta { padding: 18px }
+.portfolio-item .portfolio-item-meta { 
+   padding: 18px;
+}
 .portfolio-item .portfolio-item-meta h5 {
    font: 14px/21px 'opensans-bold', sans-serif;
    color: #fff;
@@ -516,6 +526,17 @@ ul#nav li.current a { color: #F06000; }
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
 }
+
+.github { 
+   margin-top: 10px;
+   text-align: center;
+}
+
+.deployedSite {
+   margin-top: -10px;
+   text-align: center;
+}
+
 
 /* popup modal */
 .popup-modal {

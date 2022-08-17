@@ -14,15 +14,30 @@ export default class Porfolio extends Component {
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-01">
-                      <img src={`${item.imgurl}`} className="item-img"/>
+                      <img src={`${item.imgurl}`}className="item-img"/>
+                      
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
-                          <p>{item.description}</p>
+                          <p>{item.description}
+                          </p>
+                          
                         </div>
                       </div>
                     </a>
                   </div>
+
+                  <div className="portfolio-links">
+                    <p className="github">
+                      <a href={`${item.imgrepo}`} target="_blank"><i className="fa fa-3x fa-github"></i></a>
+                    </p>
+                    <p className="deployedSite">
+                      <a href={`${item.imglink}`} target="_blank"><i className="fa fa-2x fa-desktop"></i></a>
+                    </p>
+                  </div>
+
+                  
+
                 </div>
               )
             })
