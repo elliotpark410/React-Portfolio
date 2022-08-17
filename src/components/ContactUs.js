@@ -18,19 +18,8 @@ export default class ContactUs extends Component {
               href="mailto:elliotpark410@gmail.com"
               >
               <i className='fa fa-envelope email'></i></a>
-              {/* <p key='email'>
-                  <a href='mailto:elliotpark410@gmail.com ' target="blank"><i className='fa fa-envelope'></i></a>
-              </p> */}
             </div>
           </div>
-          {/* <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-            
-
-              </div>
-            </aside>
-          </div> */}
         </section>
         );
   }
