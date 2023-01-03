@@ -17,7 +17,7 @@ A professional portfolio built with React
 ## Links
 
 
-[Deployed App on Heroku](https://ancient-shelf-44925.herokuapp.com/)
+[Deployed App on Github Pages](https://elliotpark410.github.io/React-Portfolio/)
 
 <br>
 
@@ -40,7 +40,7 @@ A professional portfolio built with React
 To begin the application, use the following in command line:
 
 `
-npm install 
+npm install
 npm run start
 `
 
