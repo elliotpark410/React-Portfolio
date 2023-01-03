@@ -1,9 +1,9 @@
 let resumeData = {
     "name": "Elliot Park",
-    // "role": "Frontend Developer",
+    "role": "Backend Developer",
     "linkedinId":"https://www.linkedin.com/in/elliot-park/",
     "email": "elliotpark410@gmail.com",
-    "roleDescription": "I'm an aspiring Front-end Developer living in Bali, Indonesia.",
+    "roleDescription": "I like building things and solving problems. Currently living in Bali, Indonesia.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -38,7 +38,7 @@ let resumeData = {
         "CompanyName":"Systematic Trading Group",
         "specialization":"Operations Team Lead",
         "YearOfLeaving":"Present",
-        "Achievements": "Translate strategy into actionable goals to execute cryptocurrency arbitrage within different markets in South Korea and USA. Adhere to company, federal, state, and local business requirements, enforcing compliance and taking action when necessary. Monitor performance with tracking and establish corrective measures as needed, and prepare detailed reports. Define project requirements and timeline, and organize team to meet business needs within budget. Conduct recurring check-in meetings with C-suite to analyze business strategy and deliver reports. Collaborate with other engineers to whiteboard, pseudocode, debug, and review code."        
+        "Achievements": "Translate strategy into actionable goals to execute cryptocurrency arbitrage within different markets in South Korea and USA. Adhere to company, federal, state, and local business requirements, enforcing compliance and taking action when necessary. Monitor performance with tracking and establish corrective measures as needed, and prepare detailed reports. Define project requirements and timeline, and organize team to meet business needs within budget. Conduct recurring check-in meetings with C-suite to analyze business strategy and deliver reports. Collaborate with other engineers to whiteboard, pseudocode, debug, and review code."
       },
       {
         "CompanyName":"SingleStore",
@@ -55,19 +55,19 @@ let resumeData = {
         "Achievements": "Retrieved client data and analyzed various accounting software with the goal of improving processes. Generated custom analytics and reports to detect issues with user adoption and inventory processing. Conducted training sessions to prepare more than two hundred employees for new software adoption. Extracted client data from numerous sources and prepared financial reports for inventory accuracy. Provided tax consultation with clients in tech, manufacturing, financial, and real estate industries. Implemented SaaS software to Tier 1 global companies and provided technical support."
       }
     ],
-    "skillsDescription":"HTML, CSS, JavaScript, React, MySQL, MongoDB, Express, Node",
+    "skillsDescription":"HTML, CSS, JavaScript, TypeScript, React, MySQL, MongoDB, Express, Node, Jest",
     "skills":[
       {
-        "skillname":"HTML"
+        "skillname":"Express"
       },
       {
-        "skillname":"CSS"
+        "skillname":"MySQL"
       },
       {
-        "skillname":"JavaScript"
+        "skillname":"TypeScript"
       },
       {
-        "skillname":"MERN"
+        "skillname":"Jest"
       }
     ],
     "portfolio":[
@@ -87,7 +87,7 @@ let resumeData = {
       },
       {
         "name":"Team Profile Generator",
-        "description":"A command-line application that generates a team profile.",  
+        "description":"A command-line application that generates a team profile.",
         "imgurl":"images/portfolio/team-profile.png",
         "imgrepo": "https://github.com/elliotpark410/Team-Profile-Generator",
         "imglink": "https://elliotpark410.github.io/Team-Profile-Generator/"
@@ -101,5 +101,5 @@ let resumeData = {
       }
     ]
   }
-  
+
   export default resumeData

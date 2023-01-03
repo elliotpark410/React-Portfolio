@@ -40,7 +40,8 @@ A professional portfolio built with React
 To begin the application, use the following in command line:
 
 `
-npm run start 
+npm install 
+npm run start
 `
 
 <br>
@@ -48,7 +49,7 @@ npm run start
 
 ## Installation
 
-To run this application, you will need Node and other dependencies: 
+To run this application, you will need Node and other dependencies:
 
 1. You will need to install Node.js. Here is a link below:
 
@@ -65,7 +66,7 @@ To run this application, you will need Node and other dependencies:
 
 3. Next, clone the repository and install all the dependencies in the package.json. In command line, you can enter:
 
-`npm install 
+`npm install
 `
 
 <br>
@@ -90,14 +91,14 @@ Copyright (c) 2022 Elliot Park
 
 
 
- 
-  
-
- 
 
 
 
- 
+
+
+
+
+
 
 
 

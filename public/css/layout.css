@@ -327,38 +327,58 @@ ul#nav li.current a { color: #F06000; }
 
 .photoshop {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: photoshop 0.5s ease;
+  	-webkit-animation: photoshop 0.5s ease;
 }
 .illustrator {
   	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: illustrator 0.5s ease;
+  	-webkit-animation: illustrator 0.5s ease;
 }
 .wordpress {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: wordpress 0.5s ease;
+  	-webkit-animation: wordpress 0.5s ease;
 }
 .css {
   	width: 70%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: css 0.5s ease;
+  	-webkit-animation: css 0.5s ease;
 }
 .html {
   	width: 70%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: html5 0.5s ease;
+  	-webkit-animation: html5 0.5s ease;
 }
 .javascript {
   	width: 60%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: jquery 0.5s ease;
+  	-webkit-animation: jquery 0.5s ease;
 }
 .mern {
    width: 50%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: jquery 0.5s ease;
+   -webkit-animation: jquery 0.5s ease;
+}
+.express {
+   width: 70%;
+   -moz-animation: jquery 0.5s ease;
+   -webkit-animation: jquery 0.5s ease;
+}
+.typescript {
+   width: 80%;
+   -moz-animation: jquery 0.5s ease;
+   -webkit-animation: jquery 0.5s ease;
+}
+.mysql {
+   width: 90%;
+   -moz-animation: jquery 0.5s ease;
+   -webkit-animation: jquery 0.5s ease;
+}
+.jest {
+   width: 70%;
+   -moz-animation: jquery 0.5s ease;
+   -webkit-animation: jquery 0.5s ease;
 }
 
 
@@ -445,7 +465,7 @@ ul#nav li.current a { color: #F06000; }
 
    border-style: solid;
    border-color: black;
-   border-width: 1px; 
+   border-width: 1px;
 }
 .portfolio-item .item-wrap a {
    display: block;
@@ -502,7 +522,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
 }
-.portfolio-item .portfolio-item-meta { 
+.portfolio-item .portfolio-item-meta {
    padding: 18px;
 }
 .portfolio-item .portfolio-item-meta h5 {
@@ -527,7 +547,7 @@ ul#nav li.current a { color: #F06000; }
 	filter:alpha(opacity=100);
 }
 
-.github { 
+.github {
    margin-top: 10px;
    text-align: center;
 }
@@ -657,7 +677,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
+	font-family: 'opensans-semibold', sans-serif;
 	color: #D8D8D8;
 }
 
@@ -681,7 +701,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
