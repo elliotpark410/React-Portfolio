@@ -3,9 +3,9 @@
 
 A professional portfolio built with React
 
+[Elliot Park's Portfolio](https://elliotpark410.github.io/React-Portfolio/)
 
 <br>
-
 
 ## Photo of Application
 
@@ -13,81 +13,38 @@ A professional portfolio built with React
 
 <br>
 
-
-## Links
-
-
-[Deployed App on Github Pages](https://elliotpark410.github.io/React-Portfolio/)
-
-<br>
-
-[Github Repository](https://github.com/elliotpark410/React-Portfolio)
-
-<br>
-
-
-## Table of Contents
-  * [Getting Started](#getting-started)
-  * [Installation](#installation)
-  * [License and Acknowledgements](#license-and-acknowledgements)
-  * [Contact](#Contact)
-
-<br>
-
-
 ## Getting Started
 
 To begin the application, use the following in command line:
 
 `
-npm install
-npm run start
+npm install && npm run start
 `
 
 <br>
 
 
-## Installation
+## Prerequisites
 
-To run this application, you will need Node and other dependencies:
-
-1. You will need to install Node.js. Here is a link below:
-
-[Download Node](https://nodejs.org/en/download/)
-
-<br>
-
-2. Once you have downloaded Node.js, you will want to download node package manager (npm). In command line, you can enter:
-
-`npm install -g npm
-`
-
-<br>
-
-3. Next, clone the repository and install all the dependencies in the package.json. In command line, you can enter:
-
-`npm install
-`
-
-<br>
-
-
-## License and Acknowledgements
-
-This project is licensed under the MIT license
+1. [Download Node](https://nodejs.org/en/download/)
 
 <br>
 
 
 ## Contact
-If you'd like to learn more about my projects, check out my Github profile: [https://github.com/elliotpark410](https://github.com/elliotpark410)
+
+[Github](https://github.com/elliotpark410)
 
 <br>
 
-If you have any questions, please don't hesitate to email me at [elliotpark410@gmail.com](mailto:elliotpark410@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elliot-park/)
 
 <br>
-Copyright (c) 2022 Elliot Park
+
+[Email](mailto:elliotpark410@gmail.com)
+
+<br>
+
 
 
 
