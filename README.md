@@ -3,13 +3,9 @@
 
 A professional portfolio built with React
 
-[Elliot Park's Portfolio](https://elliotpark410.github.io/React-Portfolio/)
-
-<br>
-
-## Photo of Application
-
 <img src="./public/images/react-portfolio.png" title="Text Editor gif" width = 432px>
+
+[Elliot Park's Portfolio](https://elliotpark410.github.io/React-Portfolio/)
 
 <br>
 
@@ -26,7 +22,7 @@ npm install && npm run start
 
 ## Prerequisites
 
-1. [Download Node](https://nodejs.org/en/download/)
+[Node](https://nodejs.org/en/download/)
 
 <br>
 
