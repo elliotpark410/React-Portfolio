@@ -3,7 +3,7 @@
 
 A professional portfolio built with React
 
-<img src="./public/images/react-portfolio.png" title="Text Editor gif" width = 432px>
+<img src="./public/images/react-portfolio.png" title="Text Editor gif" width = 434px>
 
 [Elliot Park's Portfolio](https://elliotpark410.github.io/React-Portfolio/)
 
