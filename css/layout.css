@@ -360,7 +360,7 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: jquery 0.5s ease;
    -webkit-animation: jquery 0.5s ease;
 }
-.express {
+.node {
    width: 70%;
    -moz-animation: jquery 0.5s ease;
    -webkit-animation: jquery 0.5s ease;
@@ -376,7 +376,7 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: jquery 0.5s ease;
 }
 .jest {
-   width: 70%;
+   width: 80%;
    -moz-animation: jquery 0.5s ease;
    -webkit-animation: jquery 0.5s ease;
 }
@@ -551,6 +551,7 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 10px;
    text-align: center;
 }
+
 
 .deployedSite {
    margin-top: -10px;
