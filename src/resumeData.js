@@ -43,14 +43,14 @@ let resumeData = {
         "CompanyName":"Jagad",
         "specialization":"Junior Back End Developer",
         "YearOfLeaving":"Present",
-        "Achievements": "Make Bash script to convert Postman docs from json to yaml and preview with ReDoc Docker image. Create unit tests and integration tests with Jest and incorporate mock functions when necessary. Run CI/CD jobs with Github Actions and review new commits to debug, refactor, or update tests. Schedule cron job and connect to Fireblocks and Slack API to send daily updates of asset data. Build and debug API endpoints with TypeScript, Node, Express, Prisma, Postman, and MySQL. Log API data with custom logger and configure pm2-logrotate in dev and staging server"
+        "Achievements": "Build API endpoints for fintech app with tech stack that includes Git, TypeScript, React, Node, Express, Prisma, MySQL, Postman, and Docker. Write 100+ unit tests and end-to-end tests to verify the functionality of back-end processing, relational database interactions, and business logic. Refactor database schema to eliminate redundant data, minimize data modification errors, and simplify query process. Add new tables that follow database normalization design and write complex relational queries with nested joins. Utilize DBeaver to easily visualize and manage data for smoke tests that verify API endpoint accuracy. Debug code in an efficient and timely manner by using tools like chatGPT and Stack Overflow. Develop a custom Slack application that automatically sends asset  data from Fireblocks API. Run CI/CD jobs with Github Actions to automate build, test, and deployment pipelines"
       },
       {
         "CompanyName":"SingleStore",
         "specialization":"Account Executive",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2021",
-        "Achievements":"Generated new business while expanding footprint into existing accounts with high outbound activity. Built lasting customer relationships with stakeholders by providing solutions to business challenges. Practiced clear communication of product by thoroughly understanding technical capabilities. Conducted online training sessions and best practice webinars to ensure customer success. Created detailed usage reports to analyze usage and positively influence renewal business"
+        "Achievements": "Utilized resourcefulness and creativity to generate new business revenue with a data-driven mindset. Generated new business while expanding footprint into existing accounts with high outbound activity. Built long lasting relationships with key stakeholders by providing solutions to business challenges. Cooperated extensively with marketing team during campaigns to analyze data and identify trends. Practiced clear communication of product by studying value proposition and technical capabilities. Collaborated closely with sales engineer to provide an honest and helpful overview of product"
       },
       {
         "CompanyName":"Walpole & Co., LLP",
