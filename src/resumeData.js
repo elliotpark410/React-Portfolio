@@ -3,7 +3,7 @@ let resumeData = {
     "role": "Backend Developer",
     "linkedinId":"https://www.linkedin.com/in/elliot-park/",
     "email": "elliotpark410@gmail.com",
-    "roleDescription": "I'm a junior back end developer based in Bali, Indonesia. Currently, I'm focused on building a decentralized, blockchain native payment system with Jagad.",
+    "roleDescription": "I'm a full stack developer based in Bali, Indonesia. Currently, I'm focused on building a decentralized, blockchain-native payment system with Jagad.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,27 +21,27 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"My journey into coding began with University of California, Berkeley's Full Stack Web Development bootcamp. There were a lot of sleepless nights, but it was worth every second. After I deployed my first app, I was hooked and I knew this is what I wanted to do for the rest of my life. Currently, I am helping build the backend for Jagad which provides a decentralized stablecoin pegged to the Indonesian rupiah. I grew up in Southern California, lived in the Bay Area for a few years, and I am living in Bali, Indonesia. If I am not in front of my computer you can find me surfing at the beach or doing jiu jitsu on the mats. Please don't hesitate to reach out, and thank you for checking out my portfolio!",
+    "aboutme":"My journey into coding began with University of California, Berkeley's Full Stack Web Development bootcamp. There were a lot of sleepless nights, but it was worth every second. After I deployed my first app, I was hooked and I knew this is what I wanted to do for the rest of my life. I thoroughly enjoy learning about new technologies and solving difficult problems. While hard engineering problems are often fun to tackle, I'm most attracted to solving real customer problems with a business justification. Currently, I am helping build the frontend and backend for Jagad which provides a decentralized payment system. If I am not in front of my computer you can find me surfing at the beach or doing jiu jitsu on the mats. Please don't hesitate to reach out, and thank you for checking out my portfolio!",
     "address":"Bali, Indonesia",
     "website":"E: elliotpark410@gmail.com",
     "education":[
-      {
-        "UniversityName":"University of California, Santa Barbara",
-        "specialization":"Philosophy",
-        "MonthOfPassing":"Jun",
-        "YearOfPassing":"2016",
-      },
       {
         "UniversityName":"University of California, Berkeley",
         "specialization":"Full Stack Web Development Bootcamp",
         "MonthOfPassing":"Mar",
         "YearOfPassing":"2022",
+      },
+      {
+        "UniversityName":"University of California, Santa Barbara",
+        "specialization":"Philosophy",
+        "MonthOfPassing":"Jun",
+        "YearOfPassing":"2016",
       }
     ],
     "work":[
       {
         "CompanyName":"Jagad",
-        "specialization":"Junior Back End Developer",
+        "specialization":"Full Stack Developer",
         "YearOfLeaving":"Present",
         "Achievements": "Build API endpoints for fintech app with tech stack that includes Git, TypeScript, React, Node, Express, Prisma, MySQL, Postman, and Docker. Write 100+ unit tests and end-to-end tests to verify the functionality of back-end processing, relational database interactions, and business logic. Refactor database schema to eliminate redundant data, minimize data modification errors, and simplify query process. Add new tables that follow database normalization design and write complex relational queries with nested joins. Utilize DBeaver to easily visualize and manage data for smoke tests that verify API endpoint accuracy. Debug code in an efficient and timely manner by using tools like chatGPT and Stack Overflow. Develop a custom Slack application that automatically sends asset  data from Fireblocks API. Run CI/CD jobs with Github Actions to automate build, test, and deployment pipelines"
       },
