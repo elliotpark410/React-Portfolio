@@ -1,6 +1,6 @@
 # React-Portfolio
 
-[![Elliot Park's Portfolio](./public/images/react-portfolio.png)](https://elliotpark410.github.io/React-Portfolio/){width=434px}
+[![Elliot Park's Portfolio](./public/images/react-portfolio.png)](https://elliotpark410.github.io/React-Portfolio/)
 
 <br>
 
