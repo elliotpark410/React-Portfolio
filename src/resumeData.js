@@ -1,9 +1,9 @@
 let resumeData = {
     "name": "Elliot Park",
-    "role": "Backend Developer",
+    "role": "Full Stack Web Developer",
     "linkedinId":"https://www.linkedin.com/in/elliot-park/",
     "email": "elliotpark410@gmail.com",
-    "roleDescription": "I'm a full stack developer based in Bali, Indonesia. Currently, I'm focused on building a decentralized, blockchain-native payment system with Jagad.",
+    "roleDescription": "I'm a Full Stack Web Developer.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -14,15 +14,10 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/elliotpark410/",
           "className":"fa fa-github"
-        },
-        {
-          "name":"twitter",
-          "url":"http://twitter.com/ElliotPark15",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"My journey into coding began with University of California, Berkeley's Full Stack Web Development bootcamp. There were a lot of sleepless nights, but it was worth every second. After I deployed my first app, I was hooked and I knew this is what I wanted to do for the rest of my life. I thoroughly enjoy learning about new technologies and solving difficult problems. While hard engineering problems are often fun to tackle, I'm most attracted to solving real customer problems with a business justification. Currently, I am helping build the frontend and backend for Jagad which provides a decentralized payment system. If I am not in front of my computer you can find me surfing at the beach or doing jiu jitsu on the mats. Please don't hesitate to reach out, and thank you for checking out my portfolio!",
-    "address":"Bali, Indonesia",
+    "aboutme":"My journey into coding began with the Full Stack Web Development bootcamp at the University of California, Berkeley. Despite the sleepless nights, every moment was worth it. The thrill of deploying my first app ignited a passion within me, solidifying my decision to pursue coding as a lifelong career. I thrive on learning about emerging technologies and relish the challenge of solving complex problems. With nearly two years of experience as a Full Stack Developer, I've had the opportunity to contribute to a wide range of projects, including the design of customer-facing websites and the development of RESTful API endpoints for a fintech mobile app. One of my proudest achievements has been successfully integrating the server with third-party APIs to implement essential features such as transaction confirmation, P2P transfers, and push notifications. At Jagad, where I currently work as a Node Developer, I've honed my skills in building secure and scalable API endpoints that adhere to strict security standards. I've collaborated with cross-functional teams to identify partnership requirements and develop open API features for payment gateway capability. When I'm not immersed in code, you can find me riding the waves at the beach or practicing jiu jitsu on the mats. I thrive on new challenges and am always eager to expand my horizons. Don't hesitate to reach out — I'm excited to connect and share more about my journey in tech!",
+    "address":"Irvine, California",
     "website":"E: elliotpark410@gmail.com",
     "education":[
       {
@@ -42,39 +37,20 @@ let resumeData = {
       {
         "CompanyName":"Jagad",
         "specialization":"Full Stack Developer",
-        "YearOfLeaving":"Present",
-        "Achievements": "Build API endpoints for fintech app with tech stack that includes Git, TypeScript, React, Node, Express, Prisma, MySQL, Postman, and Docker. Write 100+ unit tests and end-to-end tests to verify the functionality of back-end processing, relational database interactions, and business logic. Refactor database schema to eliminate redundant data, minimize data modification errors, and simplify query process. Add new tables that follow database normalization design and write complex relational queries with nested joins. Utilize DBeaver to easily visualize and manage data for smoke tests that verify API endpoint accuracy. Debug code in an efficient and timely manner by using tools like chatGPT and Stack Overflow. Develop a custom Slack application that automatically sends asset  data from Fireblocks API. Run CI/CD jobs with Github Actions to automate build, test, and deployment pipelines"
+        "MonthOfLeaving":"Feb",
+        "YearOfLeaving":"2024",
+        "Achievements": `
+        • Design and debug RESTful API endpoints for a fintech mobile application that meets strict security standards, ensuring the protection of sensitive user data
+        • Develop hundreds unit tests, integration tests, and end-to-end tests to verify the functionality of back-end processing, database interactions, and business logic
+        • Coordinate with other engineering teams to identify partnership requirements, create documentation, and build open API features for payment gateway capability
+        • Create interoperability for Telegram bot to interact with backend API endpoints, allowing users to redeem to bank and redeem to e-wallet.
+        • Improve customer experience by integrating server with third-party APIs like Fireblocks, DurianPay, Solana, ICP, and Slack
+        • Refactor database schema to adhere to database normalization design principles, enhancing performance
+        • Collaborate with a team of 8 developers to build diagrams and workflows for new feature specifications
+        `
       },
-      {
-        "CompanyName":"SingleStore",
-        "specialization":"Account Executive",
-        "MonthOfLeaving":"Oct",
-        "YearOfLeaving":"2021",
-        "Achievements": "Utilized resourcefulness and creativity to generate new business revenue with a data-driven mindset. Generated new business while expanding footprint into existing accounts with high outbound activity. Built long lasting relationships with key stakeholders by providing solutions to business challenges. Cooperated extensively with marketing team during campaigns to analyze data and identify trends. Practiced clear communication of product by studying value proposition and technical capabilities. Collaborated closely with sales engineer to provide an honest and helpful overview of product"
-      },
-      {
-        "CompanyName":"Walpole & Co., LLP",
-        "specialization":"Tax Consultant",
-        "MonthOfLeaving":"Jun",
-        "YearOfLeaving":"2019",
-        "Achievements": "Provided tax consultation with clients in tech, manufacturing, financial, and real estate industries. Conducted training sessions to prepare a couple hundred employees for new software adoption. Implemented SaaS accounting software and improved inventory processing with analytics. Utilized professional software such as Lacerte, Quickbooks, and Microsoft Excel"
-      }
     ],
-    "skillsDescription":"Git, Bash, HTML, CSS, React, JavaScript, Jest, TypeScript, SQL, Node, Express, Prisma, Sequelize, Mongoose, MySQL, MongoDB, Postman, Insomnia, Docker, Linux, and OOP",
-    "skills":[
-      {
-        "skillname":"Node"
-      },
-      {
-        "skillname":"MySQL"
-      },
-      {
-        "skillname":"TypeScript"
-      },
-      {
-        "skillname":"Jest"
-      }
-    ],
+    "skillsDescription":"Git, Bash, HTML, CSS, React, JavaScript, Jest, TypeScript, SQL, Node, Express, Prisma, Sequelize, Mongoose, MySQL, MongoDB, Postman, Insomnia, Docker, Linux, Sentry, CI/CD",
     "portfolio":[
       {
         "name":"Code Quiz",
