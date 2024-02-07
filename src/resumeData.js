@@ -3,7 +3,7 @@ let resumeData = {
     "role": "Full Stack Web Developer",
     "linkedinId":"https://www.linkedin.com/in/elliot-park/",
     "email": "elliotpark410@gmail.com",
-    "roleDescription": "I'm a Full Stack Web Developer.",
+    "roleDescription": "I am here to infiltrate earthling technology with Full Stack Web Development.",
     "socialLinks":[
         {
           "name":"linkedin",
